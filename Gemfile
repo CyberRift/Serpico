@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 ruby "2.6.3"
 
-gem 'sinatra'
+gem 'sinatra', '>= 2.2.3'
 gem 'haml'
 gem 'rubyzip'
 gem 'net-ldap', '~> 0.11'
